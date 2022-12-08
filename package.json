@@ -15,7 +15,7 @@
     "@babel/core": "^7.18.9",
     "@storybook/addon-actions": "^6.5.14",
     "@storybook/addon-essentials": "^6.5.9",
-    "@storybook/addon-links": "^6.5.9",
+    "@storybook/addon-links": "^6.5.14",
     "@storybook/builder-vite": "~0.1.41",
     "@storybook/react": "^6.5.14",
     "@types/jest": "^28.1.6",
